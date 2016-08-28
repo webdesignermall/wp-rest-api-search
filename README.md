@@ -9,6 +9,7 @@ TO SET UP THIS PLUGIN:
 
 1. Install the plugin as you would any other WordPress plugin.
 2. Open the wp-content/plugins/wp-rest-api-search/qs_wpapi.js file and change the home_url variable to your own domain name (around line 8).
+3. The WordPress Rest API (Version 2) plugin needs to be installed from the WordPress repository as well (install this for any WP REST API functionality on your website).
 
 ADDING THE SEARCH FORM
 
@@ -16,4 +17,4 @@ ADDING THE SEARCH FORM
 
 THAT'S IT!
 
-You can test out the form by entering any keyword and pressing enter.
+You can test out the form by entering any keyword and pressing ENTER.
